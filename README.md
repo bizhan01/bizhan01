@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Rahmatullah Bizhan</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 <img src="https://www.tuni.fi/_next/image?url=https%3A%2F%2Fcontent-webapi.tuni.fi%2Fimage-style%2Fw1440_h480_manual_crop%2Fproxy%2Fpublic%2F2020-12%2FJOP_Smart_fullstack_1440_koulutuskortti.png%3Fitok%3DRH1N0Zlb&w=1920&q=75" alt="Description of the image" >

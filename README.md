@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **AWCC (Afghan Wireless Communication Company)**
 
-- 💬 Ask me about **Laravel, Django, Vue, React**
+- 💬 Ask me about **Next, Express, Laravel, Django, Vue, React**
 
 - 📫 How to reach me **rahmatullahbizhan@gmail.com**
 

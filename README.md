@@ -4,7 +4,7 @@
 <img src="https://www.tuni.fi/_next/image?url=https%3A%2F%2Fcontent-webapi.tuni.fi%2Fimage-style%2Fw1440_h480_manual_crop%2Fproxy%2Fpublic%2F2020-12%2FJOP_Smart_fullstack_1440_koulutuskortti.png%3Fitok%3DRH1N0Zlb&w=1920&q=75" alt="Description of the image" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bizhan01&label=Profile%20views&color=0e75b6&style=flat" alt="bizhan01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bizhan01" alt="bizhan01" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bizhan01" alt="bizhan01" /></a> </p> -->
 
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 

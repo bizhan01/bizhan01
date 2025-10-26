@@ -1,31 +1,111 @@
-
+<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Rahmatullah Bizhan</h1>
-<h3 align="center">Full Stack Web Developer</h3>
-<img src="https://www.tuni.fi/_next/image?url=https%3A%2F%2Fcontent-webapi.tuni.fi%2Fimage-style%2Fw1440_h480_manual_crop%2Fproxy%2Fpublic%2F2020-12%2FJOP_Smart_fullstack_1440_koulutuskortti.png%3Fitok%3DRH1N0Zlb&w=1920&q=75" alt="Description of the image" >
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bizhan01&label=Profile%20views&color=0e75b6&style=flat" alt="bizhan01" /> </p>
+<h3 align="center">💻 Full Stack Developer | 🚀 DevOps Enthusiast | ☁️ Cloud & AI Explorer</h3>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bizhan01" alt="bizhan01" /></a> </p> -->
-
-<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
-
-- 🔭 I’m currently working on **AWCC (Afghan Wireless Communication Company)**
-
-- 💬 Ask me about **Next, Express, Laravel, Django, Vue, React**
-
-- 📫 How to reach me **rahmatullahbizhan@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/rahmatullah-bizhan-b7a0331b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rahmatullah-bizhan-b7a0331b0" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100007624321953&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100007624321953&mibextid=zbwkwl" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://www.tuni.fi/_next/image?url=https%3A%2F%2Fcontent-webapi.tuni.fi%2Fimage-style%2Fw1440_h480_manual_crop%2Fproxy%2Fpublic%2F2020-12%2FJOP_Smart_fullstack_1440_koulutuskortti.png%3Fitok%3DRH1N0Zlb&w=1920&q=75" width="100%" alt="Full Stack Development Banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bizhan01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <a href="https://github.com/bizhan01?tab=followers"><img src="https://img.shields.io/github/followers/bizhan01?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bizhan01&show_icons=true&locale=en&layout=compact" alt="bizhan01" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bizhan01&show_icons=true&locale=en" alt="bizhan01" /></p>
+### 🧠 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bizhan01&" alt="bizhan01" /></p>
+- 🔭 Currently working at **AWCC (Afghan Wireless Communication Company)**  
+- 🌱 Learning and exploring **Microservices, Docker, Kubernetes, and AI integrations**  
+- 💬 Ask me about **Next.js, Express, Laravel, Django, Vue, React, DevOps**  
+- 💡 Passionate about **building scalable full-stack systems**  
+- 📫 Reach me at **rahmatullahbizhan@gmail.com**  
+- ⚡ Fun fact: I love solving real-world problems through automation and clean code!  
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/rahmatullah-bizhan-b7a0331b0" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/></a>
+<a href="https://www.facebook.com/profile.php?id=100007624321953&mibextid=zbwkwl" target="blank"><img align="center" src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="40"/></a>
+<a href="mailto:rahmatullahbizhan@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40"/></a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,angular,tailwind,bootstrap,nodejs,express,python,django,php,laravel,mysql,mongodb,git,github,docker,redis,aws,linux" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bizhan01&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=bizhan01&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bizhan01&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🏗️ Projects & Highlights
+
+#### 🔹 [E-Tohfa – Online Recharge Platform](https://github.com/bizhan01)
+> A full-stack system enabling AWCC users to recharge their phones online with features like referral bonuses, recurring top-ups, and secure Stripe payments.
+
+#### 🔹 Admin Portal – Medusa.js + React
+> Custom-styled admin dashboard with CRUD management, authentication, and modern UI.
+
+#### 🔹 Automation Tools & Scripts
+> Built multiple backend automation tools for task scheduling, data integration, and Redis-based retry mechanisms.
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bizhan01&theme=react-dark&hide_border=true" width="95%"/>
+</p>
+
+---
+
+### 🧩 Fun Add-ons
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bizhan01&theme=onedark&no-frame=true&no-bg=true&margin-w=5" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bizhan01&theme=radical" />
+</p>
+
+---
+
+### 💬 Quote of the Day
+> "Code is like humor. When you have to explain it, it’s bad." — *Cory House*
+
+---
+
+### 🧰 Tech Stack Summary
+
+| Category | Tools / Frameworks |
+|-----------|--------------------|
+| **Frontend** | React, Next.js, Vue, TailwindCSS, Bootstrap |
+| **Backend** | Node.js, Express, Laravel, Django |
+| **Database** | MySQL, MongoDB, Redis |
+| **DevOps** | Docker, Nginx, GitHub Actions |
+| **Cloud & APIs** | AWS, SOAP APIs, REST, Stripe |
+| **AI/ML** | TensorFlow, OpenCV (basic) |
+
+---
+
+<p align="center">
+  <b>⭐️ From <a href="https://github.com/bizhan01">Rahmatullah Bizhan</a> — Thanks for visiting! ⭐️</b>
+</p>
